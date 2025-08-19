@@ -12,7 +12,9 @@
     "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "date-fns": "^4.1.0",
+    "vue": "^3.4.29",
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
